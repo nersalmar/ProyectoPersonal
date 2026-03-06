@@ -1,0 +1,19 @@
+<html>
+<head>
+    <title>Añadir nuevo producto en la compra</title>
+</head>
+<body>
+    <h1>Añadir un nuevo producto</h1>
+    <p>Introduce los datos necesarios a continuación:</p>
+    <form action="/compra/guardarNuevoProducto" method="post">
+      <label for="producto"> Producto:</label>
+      <input type="text" id="producto" name="producto" required>
+      <label for="cantidad"> Cantidad:</label>
+      <input type="number" id="cantidad" name="cantidad" required>
+      <input type="hidden" name="idUsuario" th:value="${usuario.getId()}">
+      <input type="hidden" name="estado" value="pendiente">
+      <button type="submit">Guardar</button>
+    </form>
+</body>
+</html>
+

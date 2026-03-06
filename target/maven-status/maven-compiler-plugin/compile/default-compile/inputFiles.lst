@@ -1,0 +1,15 @@
+/home/nerea/Escritorio/ApiRestSimulacroExamen/src/main/java/main/Main.java
+/home/nerea/Escritorio/ApiRestSimulacroExamen/src/main/java/main/controller/CompraWebController.java
+/home/nerea/Escritorio/ApiRestSimulacroExamen/src/main/java/main/controller/LoginWebController.java
+/home/nerea/Escritorio/ApiRestSimulacroExamen/src/main/java/main/controller/PaginaPrincipalController.java
+/home/nerea/Escritorio/ApiRestSimulacroExamen/src/main/java/main/controller/UsuariosController.java
+/home/nerea/Escritorio/ApiRestSimulacroExamen/src/main/java/main/controller/WebController.java
+/home/nerea/Escritorio/ApiRestSimulacroExamen/src/main/java/main/model/CompraModel.java
+/home/nerea/Escritorio/ApiRestSimulacroExamen/src/main/java/main/model/EventoModel.java
+/home/nerea/Escritorio/ApiRestSimulacroExamen/src/main/java/main/model/UsuarioModel.java
+/home/nerea/Escritorio/ApiRestSimulacroExamen/src/main/java/main/repository/CompraRepository.java
+/home/nerea/Escritorio/ApiRestSimulacroExamen/src/main/java/main/repository/EventoRepository.java
+/home/nerea/Escritorio/ApiRestSimulacroExamen/src/main/java/main/repository/UsuarioRepository.java
+/home/nerea/Escritorio/ApiRestSimulacroExamen/src/main/java/main/servicies/CompraServicies.java
+/home/nerea/Escritorio/ApiRestSimulacroExamen/src/main/java/main/servicies/EventoServicies.java
+/home/nerea/Escritorio/ApiRestSimulacroExamen/src/main/java/main/servicies/UsuariosServicies.java

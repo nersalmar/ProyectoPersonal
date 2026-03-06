@@ -1,0 +1,15 @@
+main/controller/CompraWebController.class
+main/controller/UsuariosController.class
+main/servicies/CompraServicies.class
+main/controller/WebController.class
+main/model/EventoModel.class
+main/repository/UsuarioRepository.class
+main/servicies/UsuariosServicies.class
+main/repository/EventoRepository.class
+main/Main.class
+main/repository/CompraRepository.class
+main/servicies/EventoServicies.class
+main/model/UsuarioModel.class
+main/model/CompraModel.class
+main/controller/LoginWebController.class
+main/controller/PaginaPrincipalController.class
