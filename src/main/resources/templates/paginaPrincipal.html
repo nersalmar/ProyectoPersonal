@@ -1,5 +1,6 @@
 <html>
 <head>
+    <link rel="manifest" href="/manifest.json">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Página Principal UzamamaHouse</title>
     <style>
@@ -83,3 +84,8 @@
     input, button { width: 100%; padding: 12px; margin: 5px 0; font-size: 16px; }
     .boton { width: 100%; margin: 5px 0; text-align: center; }
 </style>
+<script>
+if ("serviceWorker" in navigator) {
+  navigator.serviceWorker.register("/sw.js");
+}
+</script>
